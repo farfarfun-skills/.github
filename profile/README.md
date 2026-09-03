@@ -1,4 +1,4 @@
-# FarFarFun Skills
+# farfarfun skills
 
 面向 AI 编码 Agent（Claude Code、Codex 等）的 Skills 组织。
 

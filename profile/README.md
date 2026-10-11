@@ -110,7 +110,7 @@ Use $<skill-name> to ...
 | 组织 | 产物 |
 | --- | --- |
 | [farfarfun](https://github.com/farfarfun) | 通用 Python 工具链：`far*` 基础库 + `fun*` 领域库 |
-| [farfarfun-fundrive](https://github.com/farfarfun-fundrive) | 网盘 / 云存储：统一接口框架 + 各网盘驱动 |
+| [farfarfun-drive](https://github.com/farfarfun-drive) | 网盘 / 云存储：统一接口框架 + 各网盘驱动 |
 | [farfarfun-skill](https://github.com/farfarfun-skill) | **自研 Skill 的源头**：项目治理、服务规范、多语言开发规范（PR / issue 走这里） |
 | [farfarfun-utools](https://github.com/farfarfun-utools) | uTools 插件：AI 聊天、网址导航、两步验证码 |
 

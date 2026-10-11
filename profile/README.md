@@ -1,6 +1,6 @@
 # farfarfun skills
 
-面向 AI 编码 Agent（Claude Code、Codex 等）的 **Skills 聚合镜像**组织。这里把两类来源收在一起、每小时跟上游对齐，并整体镜像到 Gitee：
+[farfarfun](https://github.com/farfarfun) 的 **Skills 聚合镜像**子组织。这里把两类来源收在一起、每小时跟上游对齐，并整体镜像到 Gitee：
 
 - **社区热门 Skill 的 fork** —— Anthropic、Vercel Labs、mattpocock、吴恩达 context-hub 等团队维护的项目，20 个
 - **farfarfun 自研 Skill 的镜像** —— 名称带 `farfarfun-skill--` 前缀，源头在 [farfarfun-skill](https://github.com/farfarfun-skill) 组织，4 个
@@ -106,6 +106,8 @@ Use $<skill-name> to ...
 具体每个 Skill 的能力、调用方式和依赖，参见各仓库自己的 README。
 
 ## 其他 farfarfun 组织
+
+farfarfun 是一主多子结构：新东西默认先在主组织孵化，等某个模块仓库攒多、功能完善后独立成子组织；一开始就确定会自成一条产品线的，直接建子组织。
 
 | 组织 | 产物 |
 | --- | --- |

@@ -1,3 +1,12 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/lockup-on-dark/skills-160.png">
+    <img src="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/lockup/skills-160.png"
+         height="80" alt="farfarfun-skills">
+  </picture>
+</p>
+
 # farfarfun skills
 
 [farfarfun](https://github.com/farfarfun) 的 **Skills 聚合镜像**子组织，汇集以下两类来源，每小时与上游对齐，并整体镜像至 Gitee：

@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/mark/skills-128.png"
-       width="80" alt="farfarfun-skills">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/lockup-on-dark/skills-160.png">
+    <img src="https://raw.githubusercontent.com/farfarfun/.github/master/brand/png/lockup/skills-160.png"
+         height="80" alt="farfarfun-skills">
+  </picture>
 </p>
 
 # farfarfun skills
